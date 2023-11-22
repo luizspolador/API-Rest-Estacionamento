@@ -1,0 +1,6 @@
+Spring fornece 3 tipos de objetos para trabalhar com teste
+
+todos fazem o processo, mas de forma diferente:
+TestRestTemplate
+WebTestClient
+AssuredTest
